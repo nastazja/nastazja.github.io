@@ -8,4 +8,4 @@
 
 
 
-[Home](https://nastazja.github.io/) | [CV](https://nastazja.github.io/CV/) | [Hobbies](https://nastazja.github.io/hobbies)
+[Biography](https://nastazja.github.io/) | [CV](https://nastazja.github.io/CV/) | [Hobbies](https://nastazja.github.io/hobbies)
