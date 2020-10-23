@@ -1,6 +1,3 @@
-<!--- # for <h1> tag and ** at the beginning and end of text to make it bold, ## for <h2> tag, ### for <h3> tag
--->
-
 # **Nastazja Laskowski** 
 ## Curriculum Vitae 
 
@@ -11,6 +8,7 @@ Header | Header
 --- | --- (atleast 3 dashes needed to seperate columns)
 Content row 1 | Content row 1
 Content row 2 | Content row 2 etc...
+-->
 
 Institution | Subject  
 --- | ---
@@ -51,6 +49,7 @@ Team Member (Cambridge Judge Business School) at the Yale Healthcare Case Compet
 ![Yale](https://raw.githubusercontent.com/nastazja/nastazja.github.io/master/yale.jpg)
 
 <!--- Links in the format [link name](link url).
+-->
 
 #### 2019
 [Roche Continents Delegate in Salzburg, Austria (link)](https://medgen.medschl.cam.ac.uk/blog/genomic-medicine-mphil-student-selected-to-participate-in-roche-continents-2019/)  
