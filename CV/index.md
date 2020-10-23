@@ -26,7 +26,7 @@ Royal Hospital for Neurodisability | In-patients
 
 ### Research experience
 
-Insitution | Topic   
+Institution | Topic   
 --- | --- 
 Wellcome Trust Genome Campus / Sanger Institute | Genomic Medicine 
 Cambridge Institute for Medical Research (CIMR) | Neurodegeneration 
