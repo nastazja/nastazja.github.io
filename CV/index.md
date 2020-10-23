@@ -1,4 +1,4 @@
-# Nastazja Laskowski 
+# **Nastazja Laskowski** 
 ## Curriculum Vitae 
 
 ### Degrees achieved 
