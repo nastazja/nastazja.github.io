@@ -33,4 +33,8 @@ Cambridge Institute for Medical Research (CIMR) | Neurodegeneration
 UCL Institute of Neurology (IoN) | Multiple Sclerosis
 
 ### Conferences
-[**Roche Continents Delegate in Salzburg, Austria** (link)](https://medgen.medschl.cam.ac.uk/blog/genomic-medicine-mphil-student-selected-to-participate-in-roche-continents-2019/)  
+#### 2020
+Team Member representing Cambridge Judge Business School at the Yale Healthcare Case Competition
+![Yale](https://raw.githubusercontent.com/nastazja/nastazja.github.io/master/yale.jpq)
+#### 2019
+[Roche Continents Delegate in Salzburg, Austria (link)](https://medgen.medschl.cam.ac.uk/blog/genomic-medicine-mphil-student-selected-to-participate-in-roche-continents-2019/)  
