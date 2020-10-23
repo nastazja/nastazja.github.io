@@ -41,4 +41,4 @@ Team Member (Cambridge Judge Business School) at the Yale Healthcare Case Compet
 #### 2019
 [Roche Continents Delegate in Salzburg, Austria (link)](https://medgen.medschl.cam.ac.uk/blog/genomic-medicine-mphil-student-selected-to-participate-in-roche-continents-2019/)  
 
-[Biography](https://nastazja.github.io/) | [Hobbies](https://nastazja.github.io/hobbies) | [Assignmnets](https://nastazja.github.io/assignments/) 
+Other pages: [Biography](https://nastazja.github.io/) / [Hobbies](https://nastazja.github.io/hobbies) / [Assignmnets](https://nastazja.github.io/assignments/) 
