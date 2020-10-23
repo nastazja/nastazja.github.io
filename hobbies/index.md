@@ -11,6 +11,6 @@ In the future I hope to expand my skillset so that I am able to photograph human
 
 ![monkey](https://raw.githubusercontent.com/nastazja/nastazja.github.io/master/monkey.png) 
 
-You can see more examples of my travel photography [here](https://www.instagram.com/aloha_ka_la/). 
+You can see more examples of my travel photography on my Instagram page [aloha_ka_la (link)](https://www.instagram.com/aloha_ka_la/). 
 
 Other pages: [Biography](https://nastazja.github.io/) / [CV](https://nastazja.github.io/CV/) / [Assignments](https://nastazja.github.io/assignments)
