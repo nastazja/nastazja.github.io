@@ -1,4 +1,4 @@
-# Nastazja Laskowski
+# **Nastazja Laskowski**
 ## Hobbies
 
 Two activities that bring me the greatest enjoyment are **travel** and **photography**.
