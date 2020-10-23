@@ -6,6 +6,4 @@
 
 **Assignment 2** is a major project building up a model, application, or analysis from scratch. The repository which will contain code developed for this assignment will be linked here by 16 December 2020. 
 
-
-
-[Biography](https://nastazja.github.io/) | [CV](https://nastazja.github.io/CV/) | [Hobbies](https://nastazja.github.io/hobbies)
+Other pages: [Biography](https://nastazja.github.io/) / [CV](https://nastazja.github.io/CV/) / [Hobbies](https://nastazja.github.io/hobbies)
