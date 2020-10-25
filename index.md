@@ -21,9 +21,9 @@ Integrated and personalized healthcare researcher in the pharmaceutical industry
 <!--- the following text contains links to further website pages using the format [link name](link url) with 'coding assignments' in bold using ** and 'Programming for Social Science' in italics using single * at the beginning and end. 
 -->
 
-Prior to my current research I graduated from the MPhil Genomic Medicine at the University of Cambridge, feel free to click through to my [education](https://nastazja.github.io/CV) page for a full CV, my [hobbies](https://nastazja.github.io/hobbies) page for a glimpse of what I do in my spare time or my [**coding assignments**](https://nastazja.github.io/assignments) page for work done in *Programming for Social Science*.
+Prior to this current research, Nastazja graduated from the MPhil Genomic Medicine at the University of Cambridge, feel free to click through to [education](https://nastazja.github.io/CV) for a full CV, [hobbies](https://nastazja.github.io/hobbies) for a glimpse of Nastazja's personal interests or [**coding assignments**](https://nastazja.github.io/assignments) for work done in *Programming for Social Science*.
 
-*(This website was made as part of my assessment in 'Programming for Social Science')*.
+*(This website was made as part of the assessment in 'Programming for Social Science')*.
 
 <!--- ![image name](image raw.githubusercontent.com url) inserts images onto the webpage. Stackoverflow says: The raw.githubusercontent.com domain is used to serve unprocessed versions of files stored in GitHub repositories.
 -->
