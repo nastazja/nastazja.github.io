@@ -23,10 +23,10 @@ Integrated and personalized healthcare researcher in the pharmaceutical industry
 
 Prior to this current research, Nastazja graduated from the MPhil Genomic Medicine at the University of Cambridge, feel free to click through to [education](https://nastazja.github.io/CV) for a full CV, [hobbies](https://nastazja.github.io/hobbies) for a glimpse of Nastazja's personal interests or [**coding assignments**](https://nastazja.github.io/assignments) for work done in *Programming for Social Science*.
 
-*(This website was made as part of the assessment in 'Programming for Social Science')*.
+*(This website was made as part of an assignment in 'Programming for Social Science')*.
 
 <!--- ![image name](image raw.githubusercontent.com url) inserts images onto the webpage. Stackoverflow says: The raw.githubusercontent.com domain is used to serve unprocessed versions of files stored in GitHub repositories.
 -->
 
-#### Research funded by the ESRC in collaboration with Roche.
+#### Research grant from the ESRC in collaboration with Roche.
 ![ESRC Logo](https://raw.githubusercontent.com/nastazja/nastazja.github.io/master/ESRC%20logo.png) 
