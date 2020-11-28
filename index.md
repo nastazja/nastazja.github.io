@@ -4,6 +4,11 @@ title: Nastazja Laskowski
 <!--- 'title' dicatates what will be shown in the tab when a user visits my website.
 -->
 
+<!--- # will give a <h1> tag and putting ** before and after the text will make it bold.
+ -->
+
+ # **Nastazja Laskowski** 
+
 <!--- ## will give a <h2> tag. 
 -->
 ## Biography  
