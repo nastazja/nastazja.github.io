@@ -7,7 +7,7 @@ title: Nastazja Laskowski
 <!--- # will give a <h1> tag and putting ** before and after the text will make it bold.
  -->
 
- # **Nastazja Laskowski** 
+# **Nastazja Laskowski** 
 
 <!--- ## will give a <h2> tag. 
 -->
